@@ -112,6 +112,9 @@ Script for general purpose at the end of the queue
 
 
 ## Notes
+
+**Check the "Vagrantfile" file if you need to customize the settings**
+
 **URL/Port**
 
 [http://localhost:8080](http://localhost:8080) 
