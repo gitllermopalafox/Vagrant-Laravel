@@ -3,7 +3,7 @@ guest_port        = 80                    # Guest port
 host_port         = 8080                  # Host port
 vm_name           = "Laravel-vagrant"     # VM Name
 vm_ram            = "384"                 # VM RAM
-laravel_version   = "4.2.11"              # Laravel version >= "4.x.x" | "current" 
+laravel_version   = "5.0.22"              # Laravel version >= "4.x.x" | "current" 
 app_laravel_name  = "my_laravel_app"      # Laravel app name
 db_password       = "root"                # Database password
 githubtoken       = ""                    # Your github token
