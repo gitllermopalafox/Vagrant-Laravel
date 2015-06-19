@@ -115,6 +115,8 @@ Script for general purpose at the end of the queue
 
 **Check the "Vagrantfile" file if you need to customize the settings**
 
+***You need to add a valid github access token to the "Vagrantfile" (for composer)
+
 **URL/Port**
 
 [http://localhost:8080](http://localhost:8080) 
